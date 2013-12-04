@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DrivingTrends</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Top BAR -->
+	<string name="title">DRIVING TRENDS</string>
+	<string name="subtitle">TIME BASED VIEW</string>
+	
+	 <!-- Tab BAR -->
+	 <string name="score">Score</string>
+	 <string name="mpg">MPG</string>
+	 <string name="fuel">Fuel</string>
+	 <string name="distance">Distance</string>
+	 
+	  <!-- Tab Calendar -->
+	 <string name="week">Week</string>
+	 <string name="month">Month</string>
+	 <string name="year">Year</string>
+	 
+	  <!-- Label Container -->
+	 <string name="title1">Total Amount</string>
+	 <string name="cost1">$123</string>
+	 <string name="title2">Change size last month</string>
+	 <string name="cost2">$42</string>
+	
+</resources>

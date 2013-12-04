@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white" >#FFFFFF</color>
+    <color name="black" >#000000</color>
+    <color name="subtitle" >#7ECEFD</color>    
+    <color name="top_banner">#2185C5</color>
+    <color name="tab_banner" >#C0C0C0</color>
+    <color name="header_action_buttons_selected" >#C0C0C0</color>
+     
+   
+</resources>
